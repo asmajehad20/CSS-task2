@@ -1,0 +1,61 @@
+.cart{
+    margin-right: 10px;
+    color:white;
+}
+.heart{
+    color:blue;
+}
+.products{
+    padding: 10px 50px 50px 60px;
+}
+.product{
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 5px 5px 5px 5px;
+    width: 23%;
+    border:solid;
+    border-width: 1px;
+    border-color: black;
+    float: left;
+}
+.img{
+    height: 200px;
+    width: 100%;
+}
+.button{
+    float:left;
+    height: 40px;
+    border-color: blue;
+    
+}
+.add{
+    width:84%;
+    margin-right:1%;
+    background-color: blue;
+    font-size: medium;
+    color:white
+}
+.fav{
+    width:15%;
+    background-color: white;
+    font-size: large;
+}
+
+.tag{
+    float: left;
+}
+.curr{
+    color: green;
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: large;
+}
+.prev{
+    color:red;
+    text-decoration: line-through;
+    font-weight: bold;
+    font-size: medium;
+}
+.clear-fix{
+    clear:both;
+}
